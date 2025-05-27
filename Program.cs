@@ -9,21 +9,26 @@ class Program
         Console.Write("Masukkan target angka yang dicari: ");
         int target = int.Parse(Console.ReadLine());
 
+
         string result = FindTargetIndex(numbers, target);
 
         Console.WriteLine(result);
+
     }
+
 
     static string FindTargetIndex(int[] numbers, int target)
     {
+
         for (int i = 0; i < numbers.Length; i++)
         {
+
             if (numbers[i] == target)
             {
-                return $"Target has been reached in index number {i}";
+                return $"Angka {target} ada pada index {i}";
             }
         }
 
-        return "Target not found in array data";
+        return "Target tidak ditemukan";
     }
 }
