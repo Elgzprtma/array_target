@@ -1,0 +1,14 @@
+C:\Users\dikae\source\repos\TestLogic\bin\Debug\net9.0\TestLogic.exe
+C:\Users\dikae\source\repos\TestLogic\bin\Debug\net9.0\TestLogic.deps.json
+C:\Users\dikae\source\repos\TestLogic\bin\Debug\net9.0\TestLogic.runtimeconfig.json
+C:\Users\dikae\source\repos\TestLogic\bin\Debug\net9.0\TestLogic.dll
+C:\Users\dikae\source\repos\TestLogic\bin\Debug\net9.0\TestLogic.pdb
+C:\Users\dikae\source\repos\TestLogic\obj\Debug\net9.0\TestLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dikae\source\repos\TestLogic\obj\Debug\net9.0\TestLogic.AssemblyInfoInputs.cache
+C:\Users\dikae\source\repos\TestLogic\obj\Debug\net9.0\TestLogic.AssemblyInfo.cs
+C:\Users\dikae\source\repos\TestLogic\obj\Debug\net9.0\TestLogic.csproj.CoreCompileInputs.cache
+C:\Users\dikae\source\repos\TestLogic\obj\Debug\net9.0\TestLogic.dll
+C:\Users\dikae\source\repos\TestLogic\obj\Debug\net9.0\refint\TestLogic.dll
+C:\Users\dikae\source\repos\TestLogic\obj\Debug\net9.0\TestLogic.pdb
+C:\Users\dikae\source\repos\TestLogic\obj\Debug\net9.0\TestLogic.genruntimeconfig.cache
+C:\Users\dikae\source\repos\TestLogic\obj\Debug\net9.0\ref\TestLogic.dll
